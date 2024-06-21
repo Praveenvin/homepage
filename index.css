@@ -1,0 +1,257 @@
+.content-child,
+.whatsapp-image-2024-06-19-at-1 {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  left: 0;
+}
+.whatsapp-image-2024-06-19-at-1 {
+  height: 1108px;
+  bottom: -84px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.content-child {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+.crop,
+.home {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.11em;
+  color: inherit;
+  z-index: 2;
+}
+.home {
+  width: 127px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.crop {
+  align-self: stretch;
+}
+.disease-info {
+  width: 139px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xs) 0 0;
+  box-sizing: border-box;
+}
+.fertilizer {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.11em;
+  color: inherit;
+  z-index: 2;
+}
+.disease-info1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) 0 0;
+}
+.disease {
+  text-decoration: none;
+  width: 127px;
+  position: relative;
+  letter-spacing: 0.11em;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-22xl) var(--padding-12xl) 39px;
+  position: sticky;
+  gap: var(--gap-base);
+  top: 0;
+  z-index: 99;
+  text-align: center;
+  font-size: var(--font-size-8xl);
+  color: var(--color-white);
+  font-family: var(--small-text);
+}
+.iwe {
+  letter-spacing: 0.11em;
+}
+.agriwe1 {
+  margin: 0;
+  width: 792px;
+  position: relative;
+  font-size: inherit;
+  line-height: 143px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  max-width: 100%;
+  z-index: 1;
+}
+.agriwe {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.the-soil-is {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-16xl);
+  letter-spacing: 0.11em;
+  font-family: var(--font-inika);
+  z-index: 1;
+}
+.soil {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  max-width: 100%;
+  font-size: 128px;
+  font-family: var(--small-text);
+}
+.here-are-some {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.11em;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.question-list {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 26px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.how-to-cure,
+.what-fertilizer-to,
+.what-the-crop,
+.which-disease-do {
+  margin: 0;
+}
+.what-the-crop-container {
+  width: 736px;
+  position: relative;
+  letter-spacing: 0.11em;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.question-details {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.desktop-1,
+.intro,
+.question-details,
+.questions {
+  display: flex;
+  align-items: flex-start;
+}
+.intro {
+  width: 998px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 63px;
+  max-width: 100%;
+}
+.desktop-1,
+.questions {
+  box-sizing: border-box;
+}
+.questions {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  font-family: var(--font-inika);
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: #d1ad63;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 71px;
+  gap: 243px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1000px) {
+  .intro {
+    gap: var(--gap-12xl);
+  }
+}
+@media screen and (max-width: 975px) {
+  .agriwe1 {
+    font-size: var(--font-size-32xl);
+    line-height: 86px;
+  }
+  .here-are-some,
+  .the-soil-is,
+  .what-the-crop-container {
+    font-size: var(--font-size-9xl);
+  }
+  .desktop-1 {
+    gap: 121px;
+  }
+}
+@media screen and (max-width: 725px) {
+  .content {
+    display: none;
+  }
+  .intro {
+    gap: var(--gap-base);
+  }
+}
+@media screen and (max-width: 450px) {
+  .agriwe1 {
+    font-size: var(--font-size-13xl);
+    line-height: 57px;
+  }
+  .here-are-some,
+  .the-soil-is,
+  .what-the-crop-container {
+    font-size: var(--font-size-2xl);
+  }
+  .desktop-1 {
+    gap: 61px;
+  }
+}
